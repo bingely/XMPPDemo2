@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/D:/AndroidStudioProjects/XMPP/XMPPDemo/xMPPDemo/src/main/res/values-ldpi/dimens.xml -->
+    <eat-comment/>
+    <dimen name="contat_buddy_list_name_width">300.0dip</dimen>
+</resources>

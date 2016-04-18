@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_selected="true" android:color="#ffffffff" />
+    <item android:state_focused="true" android:color="#ffffffff" />
+    <item android:state_pressed="true" android:color="#ffffffff" />
+    <item android:color="#ff333333" />
+</selector>
+<!-- From: file:/D:/AndroidStudioProjects/XMPP/XMPPDemo/xMPPDemo/src/main/res/color/skin_dark_gray_item.xml -->

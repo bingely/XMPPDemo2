@@ -1,0 +1,126 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:clickable="true"
+    android:orientation="vertical"
+     >
+
+    <include
+        layout="@layout/custom_commen_title"
+        android:focusable="true"
+        android:visibility="gone" />
+
+    <include
+        layout="@layout/net_status_bar_info_top"
+        android:visibility="gone" />
+
+    <View
+        android:id="@+id/xxx01"
+        android:layout_width="0dip"
+        android:layout_height="0dip" />
+
+    <View
+        android:id="@+id/xxx02"
+        android:layout_width="0dip"
+        android:layout_height="0dip" />
+
+		
+        <FrameLayout
+	        android:id="@+id/fl_content"
+	        android:layout_width="match_parent"
+	        android:layout_height="0dp"
+	        android:layout_weight="1" >
+        </FrameLayout> 
+        <!-- <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="fill_parent"
+            >
+
+            <com.way.ui.iphonetreeview.IphoneTreeView
+                android:id="@+id/iphone_tree_view"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@color/white"
+                android:cacheColorHint="@android:color/transparent"
+                android:divider="@null"
+                android:fadingEdge="none"
+                android:focusable="true"
+                android:groupIndicator="@null"
+                android:scrollingCache="true"
+                android:transcriptMode="normal" />
+
+            <TextView
+                android:id="@+id/empty"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:background="@drawable/contact_user_null_bg"
+                android:visibility="gone" />
+        </FrameLayout> -->
+    
+   <View 
+        android:layout_width="match_parent"
+        android:layout_height="1px"
+        android:background="@color/divider_line_back"
+        />
+     
+   <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/title_height"
+        android:baselineAligned="false"
+        android:orientation="horizontal" 
+        >
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center_horizontal"
+            android:orientation="horizontal" >
+
+            <ImageView
+                android:id="@+id/iv_tab_conversion"
+                android:layout_width="@dimen/image_height"
+                android:layout_height="@dimen/image_height"
+                android:layout_gravity="center_vertical"
+                android:background="@drawable/conversion_tab_selector"
+                android:contentDescription="@null" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center_horizontal"
+            android:orientation="horizontal" >
+
+            <ImageView
+                android:id="@+id/iv_tab_contact"
+                android:layout_width="@dimen/image_height"
+                android:layout_height="@dimen/image_height"
+                android:layout_gravity="center_vertical"
+                android:background="@drawable/contact_tab_selector"
+                android:contentDescription="@null" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center_horizontal"
+            android:orientation="horizontal"
+            >
+
+            <ImageView
+                android:id="@+id/iv_tab_dongtai"
+                android:layout_width="@dimen/image_height"
+                android:layout_height="@dimen/image_height"
+                android:layout_gravity="center_vertical"
+                android:background="@drawable/dongtai_tab_selector"
+                android:contentDescription="@null" />
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout><!-- From: file:/D:/AndroidStudioProjects/XMPP/XMPPDemo/xMPPDemo/src/main/res/layout/main_center_layout.xml -->

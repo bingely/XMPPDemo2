@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bitmap android:src="@drawable/splash_repeat_img" android:tileMode="repeat"
+  xmlns:android="http://schemas.android.com/apk/res/android" />
+<!-- From: file:/D:/AndroidStudioProjects/XMPP/XMPPDemo/xMPPDemo/src/main/res/drawable/splash_repeat.xml -->

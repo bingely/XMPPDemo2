@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bitmap xmlns:android="http://schemas.android.com/apk/res/android"
+    android:gravity="fill_horizontal|top|center"
+    android:src="@drawable/skin_aio_input_bar_bg_big"
+    android:tileMode="disabled" />
+<!-- From: file:/D:/AndroidStudioProjects/XMPP/XMPPDemo/xMPPDemo/src/main/res/drawable/chat_input_bar_bg_big.xml -->

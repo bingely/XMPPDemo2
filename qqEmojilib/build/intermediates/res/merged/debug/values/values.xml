@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/D:/AndroidStudioProjects/XMPP/XMPPDemo/qqEmojilib/src/main/res/values/attrs.xml -->
+    <eat-comment/>
+    <attr format="reference" name="vpiCirclePageIndicatorStyle"/>
+    <!-- From: file:/D:/AndroidStudioProjects/XMPP/XMPPDemo/qqEmojilib/src/main/res/values/defaults.xml -->
+    <eat-comment/>
+    <bool name="default_circle_indicator_centered">true</bool>
+    <bool name="default_circle_indicator_snap">false</bool>
+    <!-- From: file:/D:/AndroidStudioProjects/XMPP/XMPPDemo/qqEmojilib/src/main/res/values/colors.xml -->
+    <eat-comment/>
+    <color name="background_tab_pressed">#6633B5E5</color>
+    <!-- From: file:/D:/AndroidStudioProjects/XMPP/XMPPDemo/qqEmojilib/src/main/res/values/defaults.xml -->
+    <eat-comment/>
+    <color name="default_circle_indicator_fill_color">#ff298ecb</color>
+    <color name="default_circle_indicator_page_color">#ff777777</color>
+    <color name="default_circle_indicator_stroke_color">#FFDDDDDD</color>
+    <!-- From: file:/D:/AndroidStudioProjects/XMPP/XMPPDemo/qqEmojilib/src/main/res/values/colors.xml -->
+    <eat-comment/>
+    <color name="indicator_color">#ff33b5e5</color>
+    <declare-styleable name="CirclePageIndicator"><attr format="boolean" name="centered"/><attr format="color" name="fillColor"/><attr format="color" name="pageColor"/><attr name="android:orientation"/><attr format="dimension" name="radius"/><attr format="boolean" name="snap"/><attr format="color" name="strokeColor"/><attr format="dimension" name="strokeWidth"/><attr name="android:background"/></declare-styleable>
+    <declare-styleable name="Emojicon"><attr format="boolean" name="isDynamic"/></declare-styleable>
+    <declare-styleable name="PagerSlidingTabStrip"><attr format="color" name="pstsIndicatorColor"/><attr format="color" name="pstsUnderlineColor"/><attr format="color" name="pstsDividerColor"/><attr format="dimension" name="pstsIndicatorHeight"/><attr format="dimension" name="pstsUnderlineHeight"/><attr format="dimension" name="pstsDividerPadding"/><attr format="dimension" name="pstsTabPaddingLeftRight"/><attr format="dimension" name="pstsScrollOffset"/><attr format="reference" name="pstsTabBackground"/><attr format="boolean" name="pstsShouldExpand"/><attr format="boolean" name="pstsTextAllCaps"/></declare-styleable>
+    <!-- From: file:/D:/AndroidStudioProjects/XMPP/XMPPDemo/qqEmojilib/src/main/res/values/defaults.xml -->
+    <eat-comment/>
+    <dimen name="default_circle_indicator_radius">3dp</dimen>
+    <dimen name="default_circle_indicator_stroke_width">1dp</dimen>
+    <integer name="default_circle_indicator_orientation">0</integer>
+</resources>
