@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\AndroidStudioProjects\XMPP\XMPPDemo\xMPPDemo\libs\glide-3.7.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="D:\AndroidStudioProjects\XMPP\XMPPDemo\xMPPDemo\build\intermediates\pre-dexed\debug\glide-3.7.0-630659fd524ef1c666d3780da0cd05b230abf56b.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\XMPP\XMPPDemo\xMPPDemo\libs\asmack-android-6.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="3d0153304081a3a9ddb15c93082e2664b94746e9">
+        <dex dex="D:\AndroidStudioProjects\XMPP\XMPPDemo\xMPPDemo\build\intermediates\pre-dexed\debug\asmack-android-6-65cfca4a8030c531b56bd380267d60b48564c159.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\XMPP\XMPPDemo\xMPPDemo\build\intermediates\exploded-aar\XMPPDemo\qqEmojilib\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="150f4dcf59289a27318bb9f5ccea16a52f8caf0a">
+        <dex dex="D:\AndroidStudioProjects\XMPP\XMPPDemo\xMPPDemo\build\intermediates\pre-dexed\debug\classes-12da6a1e408b67af3c9a3cedd3c3aa6024370c24.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\XMPP\XMPPDemo\xMPPDemo\libs\nineoldandroids-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="59f19e43354d32de831379c23ce03bb259a4c2b7">
+        <dex dex="D:\AndroidStudioProjects\XMPP\XMPPDemo\xMPPDemo\build\intermediates\pre-dexed\debug\nineoldandroids-2.4.0-6d4b738b4268dfd41a38eee16d29edb73d546e08.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\XMPP\XMPPDemo\xMPPDemo\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="D:\AndroidStudioProjects\XMPP\XMPPDemo\xMPPDemo\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-73a4de6e526664d6343941147cd1868731e0ea7c.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\XMPP\XMPPDemo\xMPPDemo\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="D:\AndroidStudioProjects\XMPP\XMPPDemo\xMPPDemo\build\intermediates\pre-dexed\debug\classes-427db852b6ff7bc3f9b1c672231b80d6bbbbad71.jar" />
+    </item>
+    <item
+        jar="D:\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="D:\AndroidStudioProjects\XMPP\XMPPDemo\xMPPDemo\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-2c7b3f93a4765de67fc456e30fee656c798d7e65.jar" />
+    </item>
+
+</items>
